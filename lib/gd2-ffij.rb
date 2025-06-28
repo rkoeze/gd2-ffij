@@ -70,7 +70,7 @@ module GD2
             '/usr/local/{lib64,lib}',
             '/opt/local/{lib64,lib}',
             '/usr/{lib64,lib}',
-            '/usr/lib/{x86_64,i386}-linux-gnu',
+            '/usr/lib/{x86_64,i386,aarch64}-linux-gnu',
             '/usr/lib/arm-linux*'
           ]
 
